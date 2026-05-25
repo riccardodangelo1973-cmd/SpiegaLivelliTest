@@ -1,0 +1,6 @@
+{
+  "name": "SpiegaLivelli",
+  "description": "Un assistente didattico per docenti della scuola superiore italiana, pensato per calibrare e spiegare qualsiasi concetto disciplinare su tre livelli di profondità (Biennio, Triennio, Maturità).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
